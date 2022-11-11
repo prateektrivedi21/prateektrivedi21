@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prateektrivedi21
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me prateektrivedi.xavier@gmail.com
 
