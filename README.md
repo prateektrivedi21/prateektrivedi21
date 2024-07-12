@@ -42,3 +42,6 @@ You can click the Preview link to take a look at your changes.
   
   <br/><br/><br/>
 </div>
+
+<!--<h2 align="center">👽 My Holopin badges 👽</h2>-->
+[![An image of @prateek_21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prateek_21)](https://holopin.io/@prateek_21)
